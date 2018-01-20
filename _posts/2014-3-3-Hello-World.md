@@ -6,3 +6,18 @@ title: Week 1
 ### What are your expectations of this class?
 
 I expect this class to simulate what working in a team in industry will be like. Hopefully by the end of the course, I will be familiar with any future tools and processes I will be utilizing during my summer internship. I also hope to be more familiar with SQL, since it is one of the topics being covered in this class.
+
+### What did you do this past week?
+I spent this week trying to sort out my semester schedule. I waited to get approval to proctor CS 429H with Dr. Gheith, as well as my petition to take Algorithms Honors with Dr. Ramachandran. The latter ended up getting a little messy, since I had accidentally sent in a petition for Fall 2018... but luckily both were approved! In terms of this class, I listened for any new things about Python from Professor Downing, and to my excitement, I learned that whenever a user is in Python's interactive shell, __name__ will always be equal to "main" - which means that whenever importing another Python script, it's main method will always get executed. 
+
+### What's in your way?
+My biggest concern for this class right now is forming groups! Luckily, I've found at least two people to group with, so we only need a few more to join. Hopefully that'll be resolved easily once a piazza team-finding post is published. Outside of class, I've added new responsibilities, since this is my first time being a proctor for a class, as well as an officer of an organization. (Shameless plug: Search for the Machine Learning and Data Science group on Facebook if you're interested in either topics!) I feel that I'm ready to take these on, and I'm excited for this semester.
+
+### What will you do next week?
+I'll be working on finishing my homework for Algorithms and the first project for this course. I've also been thinking about starting a new machine learning project - writing an AI for Super Smash Bros. Melee utilizing deep reinforcement learning and public APIs to easily interact with the emulator for the game. I've been indecisive about this project, but after talking to friends who also play the game, it sounds like fun to see how the AI will learn an optimal playstyle!
+
+### What's my experience of the class?
+I find Professor Downing's teaching style as a refresher to lectures where the professor continually bombards us with knowledge, making it hard to keep up. His conversational style makes it easy to pay attention and actually understand what he's teaching in class. In addition, he also picks students at random to directly interact with, which is a great incentive to stay on your toes during lecture.
+
+### What's my pick-of-the-week or tip-of-the-week?
+For any TensorFlow users out there, there's a recent feature called Eager Execution! Originally, a developer would first have to define a *graph* for TensorFlow to compile and then create a session to feed values as input to the network. With Eager Execution, however, there's no need for an external session, as values from function calls will be returned immediately! I immediately thought that this would be great when working in a jupyter notebook, since you would get instant results after running a cell. It is still under active development, but I'm excited to learn how to effectively run new experiments with this new feature. 
